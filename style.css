@@ -306,5 +306,9 @@ hr .light{
   text-decoration:none; 
 }
 
+.fill{
+  object-fit:fill;
+}
+
 /*juust a tryyyy*/
 
